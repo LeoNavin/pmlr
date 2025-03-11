@@ -1,0 +1,1 @@
+import{j as r}from"./index-e144c4f2.js";import{B as a}from"./Breadcrumb-1f41b2c0.js";import{C as s,a as t,b as e}from"./ChartTwo-471512fb.js";const i=()=>r.jsxs(r.Fragment,{children:[r.jsx(a,{pageName:"Chart"}),r.jsxs("div",{className:"grid grid-cols-12 gap-4 md:gap-6 2xl:gap-7.5",children:[r.jsx(s,{}),r.jsx(t,{}),r.jsx(e,{})]})]});export{i as default};
